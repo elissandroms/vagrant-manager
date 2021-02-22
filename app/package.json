@@ -45,7 +45,7 @@
     "shell-path": "^2.1.0",
     "shelljs": "^0.8.4",
     "v8-compile-cache": "^2.1.1",
-    "snyk": "^1.425.4"
+    "snyk": "^1.458.0"
   },
   "scripts": {
     "snyk-protect": "snyk protect",
